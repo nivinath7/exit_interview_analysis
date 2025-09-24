@@ -1,0 +1,202 @@
+[
+  {
+    "employeeID": "E001",
+    "employeeName": "Ananya Sharma",
+    "department": "Engineering",
+    "designation": "Software Engineer",
+    "exitDate": "2025-07-12",
+    "exitReason": "Career growth opportunities elsewhere",
+    "interviewedBy": "HR Manager - Priya Verma",
+    "interviewTranscript": "Q1: What is your primary reason for leaving?\nA1: I wanted to explore new technologies and take on more leadership roles.\n\nQ2: How would you describe your relationship with your manager?\nA2: My manager, Rajesh, was supportive and gave good feedback.\n\nQ3: What would have encouraged you to stay?\nA3: A clearer growth path and faster promotions.\n\nQ4: Any feedback on company culture?\nA4: Collaborative, but sometimes decisions take too long.\n\nQ5: Would you recommend Optum to others?\nA5: Yes, definitely."
+  },
+  {
+    "employeeID": "E002",
+    "employeeName": "Rohit Mehta",
+    "department": "Data Science",
+    "designation": "Data Scientist",
+    "exitDate": "2025-06-20",
+    "exitReason": "Higher education abroad",
+    "interviewedBy": "HR Partner - Suresh Nair",
+    "interviewTranscript": "Q1: What is your primary reason for leaving?\nA1: I am pursuing a Master's in AI in the US.\n\nQ2: How was your manager relationship?\nA2: Excellent, my manager guided me in research publications.\n\nQ3: Feedback on career development?\nA3: Training sessions were good, but niche projects were limited.\n\nQ4: How do you see the culture here?\nA4: Very positive and knowledge-sharing.\n\nQ5: Would you return after studies?\nA5: Yes, if opportunities match."
+  },
+  {
+    "employeeID": "E003",
+    "employeeName": "Priya Menon",
+    "department": "HR",
+    "designation": "HR Executive",
+    "exitDate": "2025-05-30",
+    "exitReason": "Relocation due to spouse transfer",
+    "interviewedBy": "HR Director - Kavita Rao",
+    "interviewTranscript": "Q1: Why are you leaving Optum?\nA1: Relocation due to my husband’s job transfer.\n\nQ2: How was your experience with leadership?\nA2: Supportive, approachable, and respectful.\n\nQ3: What did you enjoy the most?\nA3: Employee engagement initiatives.\n\nQ4: Any challenges faced?\nA4: Workload spikes during appraisal cycles.\n\nQ5: Would you recommend Optum?\nA5: Yes, absolutely."
+  },
+  {
+    "employeeID": "E004",
+    "employeeName": "Siddharth Gupta",
+    "department": "Finance",
+    "designation": "Financial Analyst",
+    "exitDate": "2025-07-05",
+    "exitReason": "Better pay package in another company",
+    "interviewedBy": "HR Business Partner - Meenal Jain",
+    "interviewTranscript": "Q1: What is your primary reason for leaving?\nA1: I received a significant salary hike from another firm.\n\nQ2: How was your manager relationship?\nA2: Very supportive.\n\nQ3: Any feedback for us?\nA3: Compensation packages could be more competitive.\n\nQ4: What did you enjoy the most?\nA4: Exposure to international finance projects.\n\nQ5: Would you recommend Optum?\nA5: Yes, but salaries should match industry standards."
+  },
+  {
+    "employeeID": "E005",
+    "employeeName": "Neha Reddy",
+    "department": "Engineering",
+    "designation": "Backend Developer",
+    "exitDate": "2025-06-28",
+    "exitReason": "Work-life balance issues",
+    "interviewedBy": "HR Manager - Priya Verma",
+    "interviewTranscript": "Q1: Reason for leaving?\nA1: The long working hours made it difficult for me to balance personal commitments.\n\nQ2: Manager relationship?\nA2: Manager was technically sound but had unrealistic deadlines.\n\nQ3: How can we improve?\nA3: Improve project planning and avoid weekend deployments.\n\nQ4: Any positives?\nA4: Very talented team.\n\nQ5: Would you return?\nA5: Maybe, if work-life balance improves."
+  },
+  {
+    "employeeID": "E006",
+    "employeeName": "Amit Bansal",
+    "department": "IT Support",
+    "designation": "System Administrator",
+    "exitDate": "2025-07-15",
+    "exitReason": "Personal reasons",
+    "interviewedBy": "HR Executive - Divya Singh",
+    "interviewTranscript": "Q1: Why leaving?\nA1: Due to family commitments in my hometown.\n\nQ2: Experience with manager?\nA2: My manager was supportive.\n\nQ3: Improvement areas?\nA3: More automation in IT support.\n\nQ4: Enjoyed most?\nA4: Problem-solving and team collaboration.\n\nQ5: Would you recommend Optum?\nA5: Yes."
+  },
+  {
+    "employeeID": "E007",
+    "employeeName": "Karan Malhotra",
+    "department": "Marketing",
+    "designation": "Marketing Analyst",
+    "exitDate": "2025-05-18",
+    "exitReason": "Switching to a startup for more creative freedom",
+    "interviewedBy": "HR Partner - Ritu Arora",
+    "interviewTranscript": "Q1: Primary reason for exit?\nA1: I want to join a startup where I have more creative control.\n\nQ2: Manager relationship?\nA2: Good, but sometimes micro-managed.\n\nQ3: Suggestions for improvement?\nA3: Provide more room for creative strategies.\n\nQ4: Positive aspects?\nA4: Excellent training sessions.\n\nQ5: Would you recommend Optum?\nA5: Yes, for structured career growth."
+  },
+  {
+    "employeeID": "E008",
+    "employeeName": "Ritika Sinha",
+    "department": "Legal",
+    "designation": "Legal Advisor",
+    "exitDate": "2025-06-08",
+    "exitReason": "Career switch to academia",
+    "interviewedBy": "HR Director - Kavita Rao",
+    "interviewTranscript": "Q1: Why are you leaving?\nA1: I want to move into teaching law.\n\nQ2: Manager relationship?\nA2: Great, manager gave me autonomy.\n\nQ3: Improvement suggestions?\nA3: More investment in legal tech tools.\n\nQ4: Best experience?\nA4: Handling complex compliance projects.\n\nQ5: Would you recommend Optum?\nA5: Yes, especially for legal professionals."
+  },
+  {
+    "employeeID": "E009",
+    "employeeName": "Deepak Chawla",
+    "department": "Operations",
+    "designation": "Operations Manager",
+    "exitDate": "2025-07-01",
+    "exitReason": "Stress and workload pressure",
+    "interviewedBy": "HR Business Partner - Meenal Jain",
+    "interviewTranscript": "Q1: Why leaving?\nA1: The workload was unmanageable.\n\nQ2: Manager relationship?\nA2: Professional, but targets were unrealistic.\n\nQ3: Suggestions?\nA3: Hire more staff for peak times.\n\nQ4: Positives?\nA4: Good exposure to leadership tasks.\n\nQ5: Would you return?\nA5: If workload policies change."
+  },
+  {
+    "employeeID": "E010",
+    "employeeName": "Megha Kapoor",
+    "department": "Engineering",
+    "designation": "Frontend Developer",
+    "exitDate": "2025-05-25",
+    "exitReason": "Better career prospects abroad",
+    "interviewedBy": "HR Manager - Priya Verma",
+    "interviewTranscript": "Q1: Reason for leaving?\nA1: I am moving abroad for better opportunities.\n\nQ2: Manager relationship?\nA2: Very friendly.\n\nQ3: Feedback for Optum?\nA3: Keep investing in upskilling programs.\n\nQ4: Best experience?\nA4: Working with UX designers.\n\nQ5: Would you recommend Optum?\nA5: Yes."
+  },
+  {
+    "employeeID": "E011",
+    "employeeName": "Vikram Rao",
+    "department": "Engineering",
+    "designation": "DevOps Engineer",
+    "exitDate": "2025-07-18",
+    "exitReason": "Remote work flexibility elsewhere",
+    "interviewedBy": "HR Partner - Suresh Nair",
+    "interviewTranscript": "Q1: Why leaving?\nA1: I got a remote job offer.\n\nQ2: Manager relationship?\nA2: Good.\n\nQ3: Suggestions?\nA3: More flexible policies.\n\nQ4: Enjoyed most?\nA4: Working with automation pipelines.\n\nQ5: Would you recommend Optum?\nA5: Yes."
+  },
+  {
+    "employeeID": "E012",
+    "employeeName": "Swati Jain",
+    "department": "Finance",
+    "designation": "Accounts Manager",
+    "exitDate": "2025-07-09",
+    "exitReason": "Family business engagement",
+    "interviewedBy": "HR Executive - Divya Singh",
+    "interviewTranscript": "Q1: Reason for leaving?\nA1: Joining family business.\n\nQ2: Manager relationship?\nA2: Excellent.\n\nQ3: Suggestions?\nA3: NA.\n\nQ4: Positives?\nA4: Exposure to corporate finance.\n\nQ5: Would you recommend Optum?\nA5: Yes."
+  },
+  {
+    "employeeID": "E013",
+    "employeeName": "Nikhil Arora",
+    "department": "Engineering",
+    "designation": "QA Engineer",
+    "exitDate": "2025-05-22",
+    "exitReason": "Switch to product company",
+    "interviewedBy": "HR Partner - Ritu Arora",
+    "interviewTranscript": "Q1: Reason for leaving?\nA1: I wanted to work at a product company.\n\nQ2: Manager relationship?\nA2: Supportive.\n\nQ3: Suggestions?\nA3: Invest in test automation.\n\nQ4: Best thing?\nA4: Learning new tools.\n\nQ5: Would you recommend?\nA5: Yes."
+  },
+  {
+    "employeeID": "E014",
+    "employeeName": "Arun Iyer",
+    "department": "Data Science",
+    "designation": "ML Engineer",
+    "exitDate": "2025-06-18",
+    "exitReason": "PhD abroad",
+    "interviewedBy": "HR Director - Kavita Rao",
+    "interviewTranscript": "Q1: Why leaving?\nA1: Pursuing PhD abroad.\n\nQ2: Manager relationship?\nA2: Very good.\n\nQ3: Suggestions?\nA3: More research-driven projects.\n\nQ4: Best?\nA4: Data hackathons.\n\nQ5: Would you recommend?\nA5: Yes."
+  },
+  {
+    "employeeID": "E015",
+    "employeeName": "Sneha Patel",
+    "department": "Engineering",
+    "designation": "UI/UX Designer",
+    "exitDate": "2025-06-05",
+    "exitReason": "Freelancing career",
+    "interviewedBy": "HR Manager - Priya Verma",
+    "interviewTranscript": "Q1: Reason?\nA1: Starting freelance journey.\n\nQ2: Manager?\nA2: Very encouraging.\n\nQ3: Suggestions?\nA3: More design-thinking workshops.\n\nQ4: Positives?\nA4: Working with creative team.\n\nQ5: Would you recommend?\nA5: Yes."
+  },
+  {
+    "employeeID": "E016",
+    "employeeName": "Aditya Joshi",
+    "department": "Engineering",
+    "designation": "Cloud Engineer",
+    "exitDate": "2025-07-07",
+    "exitReason": "Better cloud exposure in another MNC",
+    "interviewedBy": "HR Executive - Divya Singh",
+    "interviewTranscript": "Q1: What is your primary reason for leaving?\nA1: Looking for more advanced cloud transformation projects than what I was handling here.\n\nQ2: How would you describe your relationship with your manager?\nA2: My manager, Nitin Agarwal, was approachable and supportive.\n\nQ3: What would have encouraged you to stay?\nA3: Exposure to cutting-edge cloud-native projects.\n\nQ4: Any feedback on company culture?\nA4: Collaborative but sometimes bureaucratic.\n\nQ5: Would you recommend Optum?\nA5: Yes, for stability."
+  },
+  {
+    "employeeID": "E017",
+    "employeeName": "Pooja Deshmukh",
+    "department": "Customer Service",
+    "designation": "Support Associate",
+    "exitDate": "2025-06-10",
+    "exitReason": "Pursuing MBA",
+    "interviewedBy": "HR Partner - Suresh Nair",
+    "interviewTranscript": "Q1: Reason for leaving?\nA1: Pursuing higher education.\n\nQ2: Manager relationship?\nA2: Supportive.\n\nQ3: Suggestions?\nA3: More structured training.\n\nQ4: Positives?\nA4: Great team support.\n\nQ5: Would you recommend?\nA5: Yes."
+  },
+  {
+    "employeeID": "E018",
+    "employeeName": "Ramesh Krishnan",
+    "department": "Legal",
+    "designation": "Compliance Officer",
+    "exitDate": "2025-06-30",
+    "exitReason": "Joining multinational firm",
+    "interviewedBy": "HR Director - Kavita Rao",
+    "interviewTranscript": "Q1: Why leaving?\nA1: Bigger compliance role in MNC.\n\nQ2: Manager relationship?\nA2: Excellent.\n\nQ3: Suggestions?\nA3: Expand compliance training.\n\nQ4: Best?\nA4: Handling international compliance.\n\nQ5: Would you recommend?\nA5: Yes."
+  },
+  {
+    "employeeID": "E019",
+    "employeeName": "Manisha Goyal",
+    "department": "Operations",
+    "designation": "Process Analyst",
+    "exitDate": "2025-05-27",
+    "exitReason": "Switch to consulting",
+    "interviewedBy": "HR Business Partner - Meenal Jain",
+    "interviewTranscript": "Q1: Reason for leaving?\nA1: Consulting gives more variety in projects.\n\nQ2: Manager?\nA2: Supportive.\n\nQ3: Suggestions?\nA3: More process digitization.\n\nQ4: Positives?\nA4: Team collaboration.\n\nQ5: Would you recommend?\nA5: Yes."
+  },
+  {
+    "employeeID": "E020",
+    "employeeName": "Harshita Kulkarni",
+    "department": "Engineering",
+    "designation": "Full Stack Developer",
+    "exitDate": "2025-07-02",
+    "exitReason": "Entrepreneurship",
+    "interviewedBy": "HR Partner - Ritu Arora",
+    "interviewTranscript": "Q1: Reason for leaving?\nA1: Starting my own startup.\n\nQ2: Manager relationship?\nA2: Very motivating.\n\nQ3: Suggestions?\nA3: More innovation-driven projects.\n\nQ4: Best?\nA4: Exposure to full product cycle.\n\nQ5: Would you recommend?\nA5: Yes."
+  }
+]
